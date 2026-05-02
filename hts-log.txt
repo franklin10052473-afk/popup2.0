@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Apr 2026 20:16:08 at https://oovjykh.z1.web.core.windows.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://oovjykh.z1.web.core.windows.net/ -O1 "C:\Users\aryan\Desktop\testing" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/favicon.ico (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/trap/infinite/1/2/3/4/5/6/7/8/9/10/index.html (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/trap/loop/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/index.html (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/clone-trap/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10.html (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/etc/passwd (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/windows/system32/config/sam (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/wp-admin/trap.php (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/admin/clone-detect.asp (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/administrator/trap.jsp (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/.git/config (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/.env (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/api/v1/trap/endpoint (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/backup.zip (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/database.sql (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/dl/1/2/3/4/5/6/7/8/9/0/1/2/3/4/5/6/7/8/9/0.html (from https://oovjykh.z1.web.core.windows.net/)
+20:16:27	Error: 	"The requested content does not exist." (404) at link https://oovjykh.z1.web.core.windows.net/mirror/trap/endless/loop/here/forever/index.html (from https://oovjykh.z1.web.core.windows.net/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 23 links scanned, 6 files written (333884 bytes overall) [563922 bytes received at 29680 bytes/sec]
+(16 errors, 0 warnings, 0 messages)
